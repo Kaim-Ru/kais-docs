@@ -1,7 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'ja-jp'
 title = 'Kais-Docs'
-canonifyurls = true
 
 [module]
     # uncomment line below for temporary local development of module
