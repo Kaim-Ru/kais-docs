@@ -1,9 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'ja-jp'
 title = 'Kais-Docs'
-publishDir = "docs"
 canonifyurls = true
-# https://qiita.com/ysdyt/items/a581277dd1312a0e83c3#github-pages%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B
 
 [module]
     # uncomment line below for temporary local development of module
